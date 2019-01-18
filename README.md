@@ -5,7 +5,7 @@
 <li> <b>"python3 game.py"</b> For Linux environment</li>
 <li> <b>"python game.py"</b> For windows<br><br></li>
 </ul>
-         This command will launch the game gui,and game will run.<br>
+         This command will launch the game window.<br>
 Requirements:
 <ul>
 <li>1. Python3 should be installed in your PC.</li>
